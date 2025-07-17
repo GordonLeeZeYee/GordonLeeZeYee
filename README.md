@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GordonLeeZeYee
+- 👋 Hi, I’m @GordonLee
 - 👀 I’m interested in hiring tech talents
 - 🌱 I’m currently learning how to source tech talents better, one of the way is here on Github
 - 💞️ I’m looking to collaborate on ...
