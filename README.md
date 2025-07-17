@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GordonLeeZeYee
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Data Analytics 
+- 👀 I’m interested in hiring tech talents
+- 🌱 I’m currently learning how to source tech talents better, one of the way is here on Github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
